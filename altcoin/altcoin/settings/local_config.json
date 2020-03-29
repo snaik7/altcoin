@@ -1,0 +1,63 @@
+{
+
+	"SECRET_KEY" : "s(00i4e7920#^01x^cx$d=x3fqbbl3hbo4+rasdsic+iu^wu#0",
+	"BTC": {
+		"BTC_SERVER" : "http://3.15.68.183:18011",
+		"user" : "bitwallet",
+		"password" : "bitwallet@123"
+
+	},
+	"LTC": {
+		"LTC_SERVER" : "http://localhost:9432",
+		"user" : "because",
+		"password" : "whyDidTheBulletProofElephantCrossTheRoad",
+		"walletpassphrase" : "Mphasis7$"
+	},
+
+	"service.url" : "http://localhost:8000",
+	"service.user" : "test",
+	"service.password" : "Salesforce7",
+
+	"blockchain.service.url" : "https://blockchain.info",
+
+	"blockcypher.service.url" : "https://api.blockcypher.com",
+	"blockcypher.service.token" : "cfb33e34de1241aabda1ee1db6296f10",
+
+	"network" : "[\"bitcoin\", \"litecoin\"]",
+
+	"txn.confirmed.webhook.url" : "http://127.0.0.1:8000/webhook/receive/ltc/",
+
+
+
+
+	"_comment": "Exception messages here",
+	"exception.validation.address.no_account_or_no_wallet" : "GET /address/ received no account or wallet id",
+	"exception.validation.address.no_wallet" : "GET /address/ received no wallet id",
+	"exception.validation.unspent.no_wallet_or_no_network" : "GET /unspent/ received no wallet id or network ",
+	"exception.validation.fee.no_coin_type" : "GET /fee/ received no coin type",
+	"exception.validation.sign.no_user_or_no_coin_type_or_no_hex" : "POST /sign/ received no username or no coin type or hex",
+	"exception.validation.send.no_network_or_no_hex" :  "POST /send/ received no network or hex",
+	"exception.validation.txn.no_wallet_or_no_network" : "GET /txn/ received no wallet id or network ",
+
+
+	"exception.validation.user.create" :  "POST /user/ received no username or password or email",
+
+	"exception.business.newaddress.serviceexception" : "GET /newaddress/ failed to retrieve address",
+	"exception.business.newaddress.walletpassphrase.serviceexception" : "GET /newaddress/ failed to retrieve wallet phrase",
+	"exception.business.newaddress.dumpkey.serviceexception" : "GET /newaddress/ failed to dump wallet key",
+	"exception.business.unspent.serviceexception" : "GET /unspent/ failed to unspent",
+	"exception.business.fee.serviceexception" : "GET /fee/ failed to fee",
+	"exception.business.sign.serviceexception" : "POST /sign/ failed to sign",
+	"exception.business.send.serviceexception" : "POST /send/ failed to send",
+	"exception.business.txn.serviceexception" : "GET /txn/ failed to txn",
+
+	"exception.business.user.serviceexception" : "POST /user/ failed to create user",
+	"exception.business.auth.serviceexception" : "failed to authenticate user",
+	"exception.business.auth.expire.serviceexception" : "failed to authenticate user with valid token",
+
+	"exception.business.user.create" :  "POST /user/ failed to create user",
+
+	"_comment": "Payload messages here",
+	"payload.sendtxn" : "{\"id\": 0, \"method\": \"sendrawtransaction\" }"
+
+}
