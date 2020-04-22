@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d351e1e-d16c-4cb6-99ad-8fb6034fb77a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/altcoin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/altcoin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/altcoin/settings/local.py" beforeDir="false" afterPath="$PROJECT_DIR$/altcoin/settings/local.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bitcoinlib/wallets.py" beforeDir="false" afterPath="$PROJECT_DIR$/bitcoinlib/wallets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/altcoin/settings/untitled.p" beforeDir="false" afterPath="$PROJECT_DIR$/altcoin/settings/sample_referencelog" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -307,8 +303,8 @@
     <state x="374" y="273" key="com.intellij.ide.util.TipDialog/0.23.1440.831@0.23.1440.831" timestamp="1584967707292" />
     <state x="374" y="273" key="com.intellij.ide.util.TipDialog/0.23.1440.832@0.23.1440.832" timestamp="1585748531681" />
     <state x="374" y="274" key="com.intellij.ide.util.TipDialog/0.23.1440.834@0.23.1440.834" timestamp="1585029223179" />
-    <state x="481" y="144" width="845" height="709" key="find.popup" timestamp="1586429650513">
-      <screen x="0" y="23" width="1440" height="830" />
+    <state x="481" y="144" width="845" height="715" key="find.popup" timestamp="1587528887013">
+      <screen x="0" y="23" width="1440" height="836" />
     </state>
     <state x="481" y="143" width="845" height="703" key="find.popup/0.23.1440.823@0.23.1440.823" timestamp="1585157251679" />
     <state x="481" y="142" width="845" height="706" key="find.popup/0.23.1440.825@0.23.1440.825" timestamp="1585245683457" />
@@ -318,6 +314,7 @@
     <state x="481" y="144" width="845" height="708" key="find.popup/0.23.1440.829@0.23.1440.829" timestamp="1585553631642" />
     <state x="481" y="144" width="845" height="709" key="find.popup/0.23.1440.830@0.23.1440.830" timestamp="1586429650513" />
     <state x="481" y="144" width="845" height="709" key="find.popup/0.23.1440.831@0.23.1440.831" timestamp="1586095287530" />
+    <state x="481" y="144" width="845" height="715" key="find.popup/0.23.1440.836@0.23.1440.836" timestamp="1587528887013" />
     <state x="437" y="103" width="670" height="676" key="search.everywhere.popup" timestamp="1584546216177">
       <screen x="0" y="23" width="1440" height="829" />
     </state>
