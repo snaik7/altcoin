@@ -6,10 +6,19 @@ https://bitcoinlib.readthedocs.io/en/latest/
 
 There is consumer app for performing async activities in application. Message middleware used is Rabbit MQ. 
 
+
+Install using pip
+$ pip install -r requirements.txt
+
+in case updated dependency, then perform freeze to update requirments.txt
+pip freeze > requirements.txt
+
 Migration
+
 python manage.py makemigrations altcoin
 python manage.py migrate
 
+How to create user for app
 Create User
 python manage.py createsuperuser
 
@@ -29,12 +38,6 @@ Or, if you don't want/need a background service you can just run:
   
 RMQ server -  http://localhost:15672/#/queues
 
-
-install using pip
-$ pip install -r requirements.txt
-
-in case updated dependency, then perform freeze to update requirments.txt
-pip freeze > requirements.txt
  
 Uses fake SMTP server to send emails (only for test env). You can downlaod from http://nilhcem.com/FakeSMTP/download.html
 SMTP Server run 
