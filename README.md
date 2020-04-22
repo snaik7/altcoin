@@ -39,6 +39,6 @@ Or, if you don't want/need a background service you can just run:
 RMQ server -  http://localhost:15672/#/queues
 
  
-Uses fake SMTP server to send emails (only for test env). You can downlaod from http://nilhcem.com/FakeSMTP/download.html
+Uses fake SMTP server to send emails (only for test env). You can download from http://nilhcem.com/FakeSMTP/download.html
 SMTP Server run 
 java -jar ~/Downloads/fakeSMTP-2.0.jar
