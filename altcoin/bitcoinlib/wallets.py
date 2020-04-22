@@ -134,7 +134,7 @@ def wallets_list_user(db_uri=None, username=None, include_cosigners=False, netwo
     session.close()
     return wlst
 
-def get_wallet(db_uri=None, wallet_id=None, include_cosigners=False):
+def     get_wallet(db_uri=None, wallet_id=None, include_cosigners=False):
     """
     List Wallets from database
 

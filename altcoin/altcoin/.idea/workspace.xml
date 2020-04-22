@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c720c383-9f9a-41e4-beb0-d61470fe6b27" name="Default Changelist" comment="" />
+    <list default="true" id="c720c383-9f9a-41e4-beb0-d61470fe6b27" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bitcoinlib/wallets.py" beforeDir="false" afterPath="$PROJECT_DIR$/../bitcoinlib/wallets.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1Z1BBtJkw5w2fPNxhZDMFfHpqdZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -16,6 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -31,9 +41,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="397" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1583996619652">
-      <screen x="0" y="23" width="1440" height="829" />
+    <state x="221" y="77" key="SettingsEditor" timestamp="1586684114762">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="221" y="77" key="SettingsEditor/0.23.1440.830@0.23.1440.830" timestamp="1586684114762" />
+    <state x="397" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1586684098490">
+      <screen x="0" y="23" width="1440" height="830" />
     </state>
     <state x="397" y="270" key="com.intellij.ide.util.TipDialog/-1920.23.1920.1057/0.23.1440.829@0.23.1440.829" timestamp="1583996619652" />
+    <state x="397" y="270" key="com.intellij.ide.util.TipDialog/0.23.1440.830@0.23.1440.830" timestamp="1586684098490" />
   </component>
 </project>
